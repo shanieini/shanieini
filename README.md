@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**shanieini/shanieini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://res.cloudinary.com/dxpb15pfo/image/upload/v1659382385/%D7%94%D7%95%D7%A1%D7%A3_%D7%9B%D7%95%D7%AA%D7%A8%D7%AA_lke9rw.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Hi, my name is Shani Eini, and i am a fullstack/frontend developer.
+I graduate at coding academy, an intensive coding boot-camp (640 hours) that qualifies Front - End developers.
+## Tech Stack
+
+**Client:** React, Redux, Sass, Vue, Vuex, Css, Html, JavaScript, TypeScript, Styled components 
+
+**server** Node.js, Express, MongoDB, Mysql
+
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shani-eini-8a2071233/)
+
