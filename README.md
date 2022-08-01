@@ -9,9 +9,9 @@ I graduate at Coding Academy, an intensive coding boot-camp (640 hours) that qua
 
 - **Client:** React, Redux, SASS, Vue, Vuex, CSS, HTML, JavaScript, TypeScript, Styled components.
 
-- **server** Node.js, Express, Rest.API
+- **server** Node.js, Express, Rest.API.
 
-- **DataBases:** MongoDB, Mysql
+- **DataBases:** MongoDB, Mysql.
 
 
 
