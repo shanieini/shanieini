@@ -3,8 +3,8 @@
 
 
 ## 🚀 About Me
-Hi, my name is Shani Eini, and i am a fullstack/frontend developer.
-I graduate at coding academy, an intensive coding boot-camp (640 hours) that qualifies Front - End developers.
+Hi, my name is Shani Eini, and i am a fullstack / frontend developer.
+I graduate at Coding Academy, an intensive coding boot-camp (640 hours) that qualifies Front - End developers.
 ## Tech Stack
 
 **Client:** React, Redux, Sass, Vue, Vuex, Css, Html, JavaScript, TypeScript, Styled components.
