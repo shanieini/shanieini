@@ -54,15 +54,6 @@ I possess a balanced 50/50 proficiency in both client-side and server-side techn
 
 ---
 
-### 📈 GitHub Contributions
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanieini&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Shani's Github Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanieini&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Langs" height="160"/>
-</div>
-
----
-
 ### 📫 Contact
 
 <a href="https://www.linkedin.com/in/shani-eini-8a2071233/">
